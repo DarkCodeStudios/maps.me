@@ -1,4 +1,4 @@
-# MAPS.ME
+# MAPS.ME 
 
 [MAPS.ME](https://maps.me) is an open source cross-platform offline maps application,
 built on top of crowd-sourced OpenStreetMap data. It was publicly released
